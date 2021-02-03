@@ -1,4 +1,4 @@
-# All about pop music
+# Description
 
 This is a project that consists on a quiz made using the following topics:
 
@@ -22,3 +22,5 @@ npm run dev
 # or
 yarn dev
 ```
+
+**You can access the project <a href="https://quiz-imersao-alura.tayna-martins-ramos.vercel.app/">here </a>**
