@@ -1,6 +1,10 @@
 # Description
 
-This is a project that consists on a quiz made using the following topics:
+This is a project that consists on a quiz.
+
+![quiz](src/assets/quiz-readme.gif)
+
+It was made using the following topics:
 
 <ul>
   <li> <a href="https://reactjs.org/"> ReactJs </a> </li>
