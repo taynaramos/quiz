@@ -1,43 +1,82 @@
 {
-    "bg": "https://images.unsplash.com/photo-1528489290689-444dece355b6?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
-    "title": "Quiz - Do you know about music?",
-    "description": "Test your knowledges about music and we'll see if you are really an expert about this subject",
-    "questions": [
-      {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
-        "answer": 2,
-        "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
-        ]
-      },
-      {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
-        "answer": 0,
-        "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
-        ]
-      }
-    ],
-    "external": [
-      ""
-    ],
-    "theme": {
-      "colors": {
-        "primary": "#0d47a1",
-        "secondary": "#29b6f6",
-        "mainBg": "#171B35",
-        "contrastText": "#FFFFFF",
-        "wrong": "#FF5722",
-        "success": "#4CAF50"
-      },
-      "borderRadius": "4px"
+  "bg": "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+  "title": "Quiz - Do you know about pop?",
+  "description": "Test your knowledges about pop and we'll see if you are really an expert about it.",
+  "questions": [
+    {
+      "image": "https://media.giphy.com/media/9xciRWYDwP2wwqlCjM/giphy.gif",
+      "title": "When the first Rock in Rio happened?",
+      "description": "Let's get started!",
+      "answer": 2,
+      "alternatives": [
+        "October 14th, 1982",
+        "March 3rd, 2000",
+        "January 11th, 1985",
+        "September 22th, 1985"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/z3S8IOGurRmRa/giphy.gif",
+      "title": "Which one of these is the real name of Pink?",
+      "description": "Choose the correct, I beg you!!!",
+      "answer": 0,
+      "alternatives": [
+        "Alecia Beth Moore Hart",
+        "Stefani Joanne Angelina Germanotta",
+        "Alexia Joanne Hudson",
+        "Stephane Moore Hudson"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/11wsZr0jbXc15m/giphy.gif",
+      "title": "What movie Beyoncé participated as a  voice actress?",
+      "description": "That's easy",
+      "answer": 3,
+      "alternatives": [
+        "Aladdin",
+        "Frozen",
+        "Moana",
+        "The Lion King"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/obtP5Qbc150bK/giphy.gif",
+      "title": "What was the first album of Britney Spears' career?",
+      "description": "Woow, do you remember it?",
+      "answer": 1,
+      "alternatives": [
+        "Circus",
+        "...Baby One More Time",
+        "Oops!... I Did It Again",
+        "Blackout"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/3otPoA2w6UBPSkcPo4/giphy.gif",
+      "title": "When Lady Gaga's video 'Judas' was released?",
+      "description": "It's been a while haha",
+      "answer": 0,
+      "alternatives": [
+        "2011",
+        "2010",
+        "2013",
+        "2009"
+      ]
     }
+  ],
+  "external": [
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#0d47a1",
+      "secondary": "#29b6f6",
+      "mainBg": "#171B35",
+      "contrastText": "#FFFFFF",
+      "wrong": "#FF5722",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
   }
+}
