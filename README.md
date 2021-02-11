@@ -13,6 +13,7 @@ It was made using the following topics:
   <li> <a href="https://www.npmjs.com/package/prop-types"> Prop-types </a> </li>
   <li> <a href="https://www.framer.com/motion/"> Framer Motion  </a> </li>
   <li> <a href="https://react-icons.github.io/react-icons/"> React Icons </a> </li>
+  <li> <a href="https://reactrouter.com/web/guides/quick-start"> React Router DOM </a> </li>
 </ul>
 
 The [interface prototype](https://www.figma.com/file/cg1MIzSRRss8ggpypQbmdD/AluraQuiz?node-id=0%3A1) was made in figma by the [Alura team](https://www.alura.com.br/) for the course "Imersão React Next".
